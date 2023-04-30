@@ -1,0 +1,12 @@
+{
+    "token": "token do seu bot",
+    "prefix": "!",
+    "welcomecargo": "",
+    "atividade": "",
+    "pix": {
+        "chave": "chave do pix",
+        "cep": "seu cep",
+        "nome": "seu nome",
+        "cidade": "sua cidade"
+    }
+}
